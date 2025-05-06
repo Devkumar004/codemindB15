@@ -1,5 +1,5 @@
 package practice;
-
+//code for intiger
 public class BBsorthing {
 	public static void main(String[] args) {
 		int temp = 0;
