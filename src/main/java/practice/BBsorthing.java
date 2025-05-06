@@ -2,6 +2,8 @@ package practice;
 //code for intiger
 public class BBsorthing {
 	public static void main(String[] args) {
+		int w=0;
+		int v=0;
 		int temp = 0;
 		int s[] = { 122, 102, 34, 22 };
 		for (int i = 0; i < s.length; i++) {
